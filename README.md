@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Petri Nurmi
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
