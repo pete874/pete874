@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Petri Nurmi
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning ReactJS, vanilla Javascript and C#
+- 🌱 I’m currently learning ReactJS, Javascript and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
